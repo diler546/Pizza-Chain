@@ -1,0 +1,4 @@
+interface Sauce
+{
+    fun SauceSale()
+}
